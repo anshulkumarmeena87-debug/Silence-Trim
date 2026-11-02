@@ -1,0 +1,6 @@
+{
+  "name": "SilenceTrim - Audio Silence Remover & Editor",
+  "description": "Upload audio files, automatically detect and remove or truncate silent pauses with customizable decibel threshold and duration, visualize waveforms, and export studio-quality WAV audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
